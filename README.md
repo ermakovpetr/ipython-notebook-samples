@@ -1,4 +1,4 @@
-# ipython-notebook
+# ipython-notebook-samples
 ## Contents
 
 1. MJRTY - A Fast Majority Vote Algorithm
